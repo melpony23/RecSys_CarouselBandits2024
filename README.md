@@ -50,9 +50,9 @@ Ambos notebooks están diseñados para facilitar la ejecución, y el flujo de tr
 ---
 
 ## **Integrantes del Proyecto**
-- **Nombre 1**: Lucas Aguilera 
-- **Nombre 2**: Melanie Castillo
-- **Nombre 3**: Anaís Montanares
+- Lucas Aguilera 
+- Melanie Castillo
+- Anaís Montanares
 
 
 ---
