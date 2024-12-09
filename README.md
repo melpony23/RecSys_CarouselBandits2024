@@ -35,7 +35,7 @@ Ambos notebooks están diseñados para facilitar la ejecución, y el flujo de tr
    - Proporciona datos más amplios para analizar escenarios de "cold start" en aplicaciones de streaming musical.
    - Se incluye en formato `.parquet` y es compatible con el segundo notebook.
      Se pueden encontrar en el siguiente link: https://zenodo.org/records/5121674#.YQuiitMzaIZ
-   - Se usan: song_embeddings.parquet, user_embeddings.parquet, user_features_train_svd.parquet, user_features_validation_svd.parquet
+   - Se usan: song_embeddings.parquet, user_embeddings.parquet, user_features_train_svd.parquet.
 
 ---
 
